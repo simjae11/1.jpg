@@ -10,8 +10,8 @@
   <html>
     <body>
       
-  <li><a href="2.html">선 :선녀와 나무꾼에 나오는</a></li>
-  <li><a href="3.html">영 :영영 다시 볼수 없는 선녀</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hR5KF_-nA3w">선 :선녀와 나무꾼에 나오는</a></li>
+  <li><a href="https://www.youtube.com/watch?v=c3vuInVw6KI">영 :영영 다시 볼수 없는 선녀</a></li>
 </ol>
 <h2>사랑스런</h2>
 손편지 내용
